@@ -1,6 +1,4 @@
-# Zoo Management System
-
-## Description
+## Description du projet
 
 Le projet implémente une gestion de zoo en utilisant la programmation orientée objet (POO). Il permet de simuler la gestion des cages et des animaux dans un zoo. Les fonctionnalités incluent l'ajout de cages, l'ajout d'animaux, l'affichage des animaux dans chaque cage, ainsi que la gestion des relations prédateur/proie et l'alimentation des animaux.
 
@@ -33,5 +31,5 @@ Le projet contient plusieurs classes pour modéliser le zoo, les cages, et les a
 1. **Clonez ce repository** :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/zoo-management.git
-   cd zoo-management
+   git clone https://github.com/votre-utilisateur/zoo.git
+   cd zoo
